@@ -51,7 +51,7 @@ README.md
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/meetx-booking-api.git
+git clone https://github.com/Aditya-Gupta171/meetx-booking-api.git
 cd meetx-booking-api
 ```
 
